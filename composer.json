@@ -1,0 +1,19 @@
+{
+    "name": "chaoswd/log_controller",
+    "description": "This Logging Library will help you keep track of things that are happening.",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "ChaosWD\\Controller\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jordan Gerber",
+            "email": "jordangerber@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
